@@ -21,7 +21,7 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 - [✓] `<b>`
 - [✓] `<base>`
 - [✓] `<bdi>`
-- [ ] `<bdo>`
+- [✓] `<bdo>`
 - [✓] `<blockquote>`
 - [✓] `<body>`
 - [✓] `<br>`
@@ -29,12 +29,12 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 
 ### C
 
-- [ ] `<canvas>`
-- [ ] `<caption>`
-- [ ] `<cite>`
-- [ ] `<code>`
-- [ ] `<col>`
-- [ ] `<colgroup>`
+- [✓] `<canvas>`
+- [✓] `<caption>`
+- [✓] `<cite>`
+- [✓] `<code>`
+- [✓] `<col>`
+- [✓] `<colgroup>`
 
 ### D
 
