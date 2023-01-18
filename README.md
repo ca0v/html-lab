@@ -79,15 +79,15 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 
 ### I
 
-- [ ] `<i>`
+- [✓] `<i>`
 - [ ] `<iframe>`
-- [ ] `<img>`
-- [ ] `<input>`
-- [ ] `<ins>`
+- [✓] `<img>`
+- [✓] `<input>`
+- [✓] `<ins>`
 
 ### K
 
-- [ ] `<kbd>`
+- [✓] `<kbd>`
 
 ### L
 
