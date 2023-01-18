@@ -38,13 +38,13 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 
 ### D
 
-- [ ] `<data>`
-- [ ] `<datalist>`
+- [✓] `<data>`
+- [✓] `<datalist>`
 - [✓] `<dd>`
-- [ ] `<del>`
-- [ ] `<details>`
-- [ ] `<dfn>`
-- [ ] `<dialog>`
+- [✓] `<del>`
+- [✓] `<details>`
+- [✓] `<dfn>`
+- [✓] `<dialog>`
 - [ ] `<div>`
 - [✓] `<dl>`
 - [✓] `<dt>`
