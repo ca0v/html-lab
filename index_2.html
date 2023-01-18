@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Semantic HTML</title>
+  </head>
+  <body>
+    <header>
+      <h1>Semantic HTML</h1>
+      <p>
+        Below you will find examples for the "A" tags as well as a few others.
+      </p>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="index_2.html">Example 2</a></li>
+          <li><a href="index.html">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section>
+        <h2>Audio</h2>
+        <audio controls>
+          <source src="audio.mp3" type="audio/mpeg" />
+          Your browser does not support the audio element.
+        </audio>
+      </section>
+      <section>
+        <h2>Map</h2>
+        <img
+          id="Image-Maps-Com-image-maps-2023-01-18-143720"
+          src="./profile8x8.jpg"
+          usemap="#image-maps-profile8x8"
+          alt="Profile Picture of Corey Alix"
+        />
+        <map id="image-maps-profile8x8">
+          <area
+            alt="Glasses"
+            title="Glasses"
+            href="./index.html"
+            shape="poly"
+            coords="32,32,32,224,224,224,224,32"
+          />
+        </map>
+      </section>
+      <!-- a markup example that uses abbr -->
+      <section>
+        <h2>Abbreviations</h2>
+        <p>
+          The <abbr title="World Health Organization">WHO</abbr> was founded in
+          1948.
+        </p>
+      </section>
+      <!-- a markup example that uses address -->
+      <section>
+        <h2>Address</h2>
+        <address>
+          <p>
+            <strong>John Doe</strong><br />
+            123 Main Street<br />
+            Anytown, USA
+          </p>
+        </address>
+      </section>
+      <!-- a markup example that uses article -->
+      <section>
+        <h2>Article</h2>
+        <article>
+          <h3>Article Title</h3>
+          <p>
+            An article tag defines an independent, self-contained content. It
+          </p>
+        </article>
+      </section>
+      <!-- a markup example that uses aside -->
+      <section>
+        <h2>Aside</h2>
+        <p>
+          An aside tag defines content aside from the page content. It should be
+          related to the surrounding content.
+        </p>
+        <aside>
+          <p>
+            This is an aside. It is related to the surrounding content, but not
+            essential to it.
+          </p>
+        </aside>
+      </section>
+      <section>
+        <dl>
+          <dt>&lt;abbr&gt;</dt>
+          <dd>
+            The abbr tag is used to define an abbreviation or an acronym. The
+            title attribute specifies the full term.
+          </dd>
+          <dt>&lt;address&gt;</dt>
+          <dd>
+            The address tag is used to define contact information for the
+            author/owner of a document or an article. The contact information
+            can be a physical address, email address, phone number, social media
+            handle, etc. The author of an article can be identified using the
+            address tag.
+          </dd>
+          <dt>&lt;article&gt;</dt>
+          <dd>
+            The article tag specifies independent, self-contained content. An
+            article should make sense on its own and it should be possible to
+            distribute it independently from the rest of the site.
+          </dd>
+          <dt>&lt;aside&gt;</dt>
+          <dd>
+            The aside tag defines content aside from the page content. It should
+            be related to the surrounding content. The aside content should be
+            indirectly related to the surrounding content.
+          </dd>
+          <dt>&lt;area&gt;</dt>
+          <dd>
+            The area tag defines an area inside an image-map (an image-map is an
+            image with clickable areas). The area tag always belongs inside a
+            map tag. The area tag has two required attributes: href - the URL of
+            the page the link goes to alt - specifies an alternate text for the
+            area, if the image cannot be displayed
+          </dd>
+          <dt>&lt;audio&gt;</dt>
+          <dd>
+            The audio tag defines sound, such as music or other audio streams.
+            The text between the opening and closing tag will only be displayed
+            in browsers that do not support the audio element.
+          </dd>
+          <dt>&lt;br&gt;</dt>
+          <dd>
+            The br tag inserts a single line break. The br tag is an empty tag
+            that does not have a closing tag.
+          </dd>
+          <dt>&lt;strong&gt;</dt>
+          <dd>
+            The strong tag is used to define important text. The content inside
+            the strong tag is typically displayed in bold.
+          </dd>
+        </dl>
+      </section>
+    </main>
+    <footer>
+      <p>This page covers the "A" tags.</p>
+    </footer>
+  </body>
+</html>

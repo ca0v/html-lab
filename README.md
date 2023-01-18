@@ -9,12 +9,12 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 ### A
 
 - [✓] `<a>`
-- [ ] `<abbr>`
-- [ ] `<address>`
-- [ ] `<area>`
-- [ ] `<article>`
-- [ ] `<aside>`
-- [ ] `<audio>`
+- [✓] `<abbr>`
+- [✓] `<address>`
+- [✓] `<area>`
+- [✓] `<article>`
+- [✓] `<aside>`
+- [✓] `<audio>`
 
 ### B
 
@@ -24,7 +24,7 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 - [ ] `<bdo>`
 - [ ] `<blockquote>`
 - [✓] `<body>`
-- [ ] `<br>`
+- [✓] `<br>`
 - [ ] `<button>`
 
 ### C
@@ -122,7 +122,7 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 - [ ] `<small>`
 - [ ] `<source>`
 - [ ] `<span>`
-- [ ] `<strong>`
+- [✓] `<strong>`
 - [ ] `<style>`
 - [ ] `<sub>`
 - [ ] `<summary>`
