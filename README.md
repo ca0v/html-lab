@@ -65,14 +65,14 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 ### H
 
 - [✓] `<h1>`
-- [ ] `<h2>`
-- [ ] `<h3>`
-- [ ] `<h4>`
-- [ ] `<h5>`
-- [ ] `<h6>`
+- [✓] `<h2>`
+- [✓] `<h3>`
+- [✓] `<h4>`
+- [✓] `<h5>`
+- [✓] `<h6>`
 - [✓] `<head>`
 - [✓] `<header>`
-- [ ] `<hr>`
+- [✓] `<hr>`
 - [✓] `<html>`
 
 ### I
@@ -178,4 +178,3 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 ### W
 
 - [ ] `<wbr>`
-
