@@ -8,7 +8,7 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 
 ### A
 
-- [ ] `<a>`
+- [✓] `<a>`
 - [ ] `<abbr>`
 - [ ] `<address>`
 - [ ] `<area>`
@@ -23,7 +23,7 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 - [ ] `<bdi>`
 - [ ] `<bdo>`
 - [ ] `<blockquote>`
-- [ ] `<body>`
+- [✓] `<body>`
 - [ ] `<br>`
 - [ ] `<button>`
 
@@ -40,14 +40,14 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 
 - [ ] `<data>`
 - [ ] `<datalist>`
-- [ ] `<dd>`
+- [✓] `<dd>`
 - [ ] `<del>`
 - [ ] `<details>`
 - [ ] `<dfn>`
 - [ ] `<dialog>`
 - [ ] `<div>`
-- [ ] `<dl>`
-- [ ] `<dt>`
+- [✓] `<dl>`
+- [✓] `<dt>`
 - [ ] `<em>`
 - [ ] `<embed>`
 - [ ] `<fieldset>`
@@ -55,16 +55,16 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 - [ ] `<figure>`
 - [ ] `<footer>`
 - [ ] `<form>`
-- [ ] `<h1>`
+- [✓] `<h1>`
 - [ ] `<h2>`
 - [ ] `<h3>`
 - [ ] `<h4>`
 - [ ] `<h5>`
 - [ ] `<h6>`
-- [ ] `<head>`
-- [ ] `<header>`
+- [✓] `<head>`
+- [✓] `<header>`
 - [ ] `<hr>`
-- [ ] `<html>`
+- [✓] `<html>`
 - [ ] `<i>`
 - [ ] `<iframe>`
 - [ ] `<img>`
@@ -75,15 +75,15 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 - [ ] `<legend>`
 - [ ] `<li>`
 - [ ] `<link>`
-- [ ] `<main>`
+- [✓] `<main>`
 - [ ] `<map>`
 - [ ] `<mark>`
-- [ ] `<meta>`
+- [✓] `<meta>`
 - [ ] `<meter>`
 
 ### N
 
-- [ ] `<nav>`
+- [✓] `<nav>`
 - [ ] `<noscript>`
 
 ### O
@@ -96,7 +96,7 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 
 ### P
 
-- [ ] `<p>`
+- [✓] `<p>`
 - [ ] `<param>`
 - [ ] `<picture>`
 - [ ] `<pre>`
