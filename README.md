@@ -2,6 +2,8 @@
 
 Here I will explore HTML-only concepts and functionality.  Off the top of my head I'm thinking embedded video, date pickers and accessibility, but I will explore tags I am not familiar with and tags that have contextual importance.
 
+Please note that <a href="https://github.com/features/copilot">copilot<a> wrote most of the content for this entire html-lab.
+
 ## Tags
 
 Here is an "exhaustive" list of all the HTML tags (surely I missed many):
