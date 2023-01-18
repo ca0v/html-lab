@@ -1,0 +1,9 @@
+@import url("https://unpkg.com/@picocss/pico@latest/css/pico.min.css");
+
+body {
+  padding: 1em;
+}
+
+body > main {
+  padding: 1em;
+}

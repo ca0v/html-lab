@@ -51,16 +51,16 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 
 ### E
 
-- [ ] `<em>`
-- [ ] `<embed>`
+- [✓] `<em>`
+- [✓] `<embed>`
 
 ### F
 
-- [ ] `<fieldset>`
-- [ ] `<figcaption>`
-- [ ] `<figure>`
-- [ ] `<footer>`
-- [ ] `<form>`
+- [✓] `<fieldset>`
+- [✓] `<figcaption>`
+- [✓] `<figure>`
+- [✓] `<footer>`
+- [✓] `<form>`
 
 ### H
 
