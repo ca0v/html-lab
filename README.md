@@ -18,14 +18,14 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 
 ### B
 
-- [ ] `<b>`
-- [ ] `<base>`
-- [ ] `<bdi>`
+- [✓] `<b>`
+- [✓] `<base>`
+- [✓] `<bdi>`
 - [ ] `<bdo>`
-- [ ] `<blockquote>`
+- [✓] `<blockquote>`
 - [✓] `<body>`
 - [✓] `<br>`
-- [ ] `<button>`
+- [✓] `<button>`
 
 ### C
 
@@ -48,13 +48,22 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 - [ ] `<div>`
 - [✓] `<dl>`
 - [✓] `<dt>`
+
+### E
+
 - [ ] `<em>`
 - [ ] `<embed>`
+
+### F
+
 - [ ] `<fieldset>`
 - [ ] `<figcaption>`
 - [ ] `<figure>`
 - [ ] `<footer>`
 - [ ] `<form>`
+
+### H
+
 - [✓] `<h1>`
 - [ ] `<h2>`
 - [ ] `<h3>`
@@ -65,16 +74,28 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 - [✓] `<header>`
 - [ ] `<hr>`
 - [✓] `<html>`
+
+### I
+
 - [ ] `<i>`
 - [ ] `<iframe>`
 - [ ] `<img>`
 - [ ] `<input>`
 - [ ] `<ins>`
+
+### K
+
 - [ ] `<kbd>`
+
+### L
+
 - [ ] `<label>`
 - [ ] `<legend>`
 - [ ] `<li>`
 - [ ] `<link>`
+
+### M
+
 - [✓] `<main>`
 - [ ] `<map>`
 - [ ] `<mark>`

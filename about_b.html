@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Semantic HTML</title>
+</head>
+<base href="./dummy_folder" />
+<body>
+  <header>
+    <h1>B Tags</h1>
+    <p>
+      Below you will find examples for the "B" tags as well as a few others.
+    </p>
+    <nav>
+      <ul>
+        <!-- 
+            Notice above I set base to a dummy child folder.
+            This means that the href's below will be relative to that folder.
+            So, if I want to go back to the proper folder, I need to use ../, which
+            means go up one folder.
+         -->
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="../about_a.html">A tags</a></li>
+        <li><a href="../about_c.html">C tags</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>bdi</h2>
+      This would be an example of embedding a right-to-left phrase, if I knew
+      one. Hopefully this means hello world in Arabic: <bdi>مرحبا بالعالم</bdi>
+    </section>
+    <section>
+      <h2>bdo</h2>
+      With the &lt;bod&gt; tag will actually reverse the
+      <bdo dir="rtl">text</bdo> within it, although in this case I had to add
+      the dir="rtl".
+    </section>
+    <section>
+      <h2>b, button, blockquote</h2>
+      <p>
+        Within a paragraph, you can use wrap words in the
+        <b>bold (&lt;b&gt;)</b> tag to emphasized them. You can also embed a
+        <button>Button</button>, although it is rare to find a button within a
+        paragraph tag. Copilot says this about accessibility:
+      </p>
+      <blockquote>
+        The <b>bold</b> element is used to indicate that the enclosed text is of
+        greater importance than the surrounding text. This is typically rendered
+        in bold type.
+      </blockquote>
+    </section>
+    <section>
+      <h2>Description List</h2>
+      <dl>
+        <dt>&lt;b&gt;</dt>
+        <dd>
+          The b tag is used to define bold text. The b tag is written as
+          &lt;b&gt; and is closed with &lt;/b&gt;.
+        </dd>
+        <dt>&lt;button&gt;</dt>
+        <dd>
+          The button tag is used to define a clickable button. The button tag is
+          written as &lt;button&gt; and is closed with &lt;/button&gt;.
+        </dd>
+        <dt>&lt;blockquote&gt;</dt>
+        <dd>
+          The blockquote tag is used to define a section that is quoted from
+          another source. The blockquote tag is written as &lt;blockquote&gt;
+          and is closed with &lt;/blockquote&gt;.
+        </dd>
+        <dt>&lt;base&gt;</dt>
+        <dd>
+          The base tag is used to define the base URL/target for all relative
+          URLs in a document. The base tag is written as &lt;base&gt; and is
+          closed with &lt;/base&gt;.
+        </dd>
+        <dt>&lt;bdi&gt;</dt>
+        <dd>
+          The bdi tag is used to isolate a part of text that might be formatted
+          in a different direction from other text outside it. The bdi tag is
+          written as &lt;bdi&gt; and is closed with &lt;/bdi&gt;.
+        </dd>
+        <dt>&lt;dbo&gt;</dt>
+        <dd>
+          The bdo tag is used to override the current text direction. The bdo
+          tag is written as &lt;bdo&gt; and is closed with &lt;/bdo&gt;.
+        </dd>
+      </dl>
+    </section>
+  </main>
+</body>
