@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./index.css" />
+    <title>Semantic HTML</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about_r.html">Previous Tags</a></li>
+          <li><a href="about_t.html">Next Tags</a></li>
+        </ul>
+      </nav>
+      <h1>Semantic HTML</h1>
+      <p>Below you will find examples for the "S" tags.</p>
+    </header>
+    <main>
+      <section>
+        <h2>Definitions</h2>
+        <dl>
+          <dt><dfn>&lt;s&gt;</dfn></dt>
+          <dd>
+            The <code>&lt;s&gt;</code> tag is used to indicate that the text is
+            no longer accurate or relevant. As you can see in
+            <s>this example</s> here.
+          </dd>
+          <dt><dfn>&lt;samp&gt;</dfn></dt>
+          <dd>
+            The <code>&lt;samp&gt;</code> tag is used to define sample output
+            from a computer program. For example, <samp>Sample Text</samp>.
+          </dd>
+          <dt><dfn>&lt;script&gt;</dfn></dt>
+          <dd>
+            The &lt;script&gt; tag is used to define a client-side script
+            (JavaScript).
+            <br />
+            <br />
+            <textarea
+              readonly
+              style="
+                padding: 0;
+                font-family: Courier;
+                resize: none;
+                height: 3em;
+                border: none;
+              "
+            >
+document.write("Hello World!")</textarea
+            >
+          </dd>
+          <dt><dfn>&lt;section&gt;</dfn></dt>
+          <dd>
+            The <code>&lt;section&gt;</code> tag is used to define sections in a
+            document, such as chapters, headers, footers, or any other sections
+            of the document.
+          </dd>
+          <dt><dfn>&lt;select&gt;</dfn></dt>
+          <dd>
+            The <code>&lt;select&gt;</code> tag is used to create a drop-down
+            list.
+            <br />
+            <br />
+            <select>
+              <option value="volvo">Volvo</option>
+              <option value="saab">Saab</option>
+              <option value="mercedes">Mercedes</option>
+              <option value="audi">Audi</option>
+            </select>
+          </dd>
+          <dt><dfn>&lt;small&gt;</dfn></dt>
+          <dd>
+            The <code>&lt;small&gt;</code> tag is used to define smaller text.
+            <br />
+            <br />
+            <small>Small Text</small>
+          </dd>
+          <dt><dfn>&lt;source&gt;</dfn></dt>
+          <dd>
+            The <code>&lt;source&gt;</code> tag is used to specify multiple
+            media resources for media elements (<code>&lt;video&gt;</code> and
+            <code>&lt;audio&gt;</code>).
+            <br />
+            <br />
+            <video width="320" height="240" controls>
+              <source src="./assets/22f472c1-28e35a07.mp4" type="video/mp4" />
+              <!-- this should be an alternative encoding -->
+              <source src="./assets/22f472c1-28e35a07.mp4" type="video/mp4" />
+              Your browser does not support the video tag.
+            </video>
+          </dd>
+          <dt><dfn>&lt;span&gt;</dfn></dt>
+          <dd>
+            The <code>&lt;span&gt;</code> tag is used to group inline-elements
+            in a document.
+            <br />
+            <br />
+            <span style="color: red">This is a red text.</span>
+          </dd>
+          <dt><dfn>&lt;strong&gt;</dfn></dt>
+          <dd>
+            The <code>&lt;strong&gt;</code> tag is used to define important
+            text.
+            <br />
+            <br />
+            <strong>Important Text</strong>
+          </dd>
+          <dt><dfn>&lt;sub&gt;</dfn></dt>
+          <dd>
+            The <code>&lt;sub&gt;</code> tag is used to define subscripted text.
+            <br />
+            <br />
+            H<sub>2</sub>O
+          </dd>
+          <dt><dfn>&lt;summary&gt;</dfn></dt>
+          <dd>
+            The <code>&lt;summary&gt;</code> tag is used to define a visible
+            heading for a <code>&lt;details&gt;</code> element.
+            <br />
+            <br />
+            <details>
+              <summary>Click to see the details</summary>
+              <p>
+                &lt;detail&gt; and &lt;summary&gt; can be used to create a
+                nested menu structure, or an accordion control.
+              </p>
+            </details>
+          </dd>
+          <dt><dfn>&lt;sup&gt;</dfn></dt>
+          <dd>
+            The <code>&lt;sup&gt;</code> tag is used to define superscripted
+            text.
+            <br />
+            <br />
+            E = mc<sup>2</sup>
+          </dd>
+          <dt><dfn>&lt;svg&gt;</dfn></dt>
+          <dd>
+            The <code>&lt;svg&gt;</code> tag is used to define a container for
+            SVG graphics.
+            <br />
+            <br />
+            <svg
+              width="100"
+              height="100"
+              viewBox="0 0 100 100"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <circle cx="50" cy="50" r="40" fill="#004000" stroke="#008000" stroke-width="3" />
+              Sorry, your browser does not support inline SVG.
+            </svg>
+          </dd>
+        </dl>
+      </section>
+    </main>
+    <footer></footer>
+  </body>
+</html>

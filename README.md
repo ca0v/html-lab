@@ -138,20 +138,20 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 
 ### S
 
-- [ ] `<s>`
-- [ ] `<samp>`
-- [ ] `<script>`
-- [ ] `<section>`
-- [ ] `<select>`
-- [ ] `<small>`
-- [ ] `<source>`
-- [ ] `<span>`
+- [✓] `<s>`
+- [✓] `<samp>`
+- [✓] `<script>`
+- [✓] `<section>`
+- [✓] `<select>`
+- [✓] `<small>`
+- [✓] `<source>`
+- [✓] `<span>`
 - [✓] `<strong>`
-- [ ] `<style>`
-- [ ] `<sub>`
-- [ ] `<summary>`
-- [ ] `<sup>`
-- [ ] `<svg>`
+- [✓] `<style>`
+- [✓] `<sub>`
+- [✓] `<summary>`
+- [✓] `<sup>`
+- [✓] `<svg>`
 
 ### T
 
