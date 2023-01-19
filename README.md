@@ -175,8 +175,8 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 
 ### V
 
-- [ ] `<var>`
-- [ ] `<video>`
+- [✓] `<var>`
+- [✓] `<video>`
 
 ### W
 
