@@ -180,7 +180,7 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 
 ### W
 
-- [ ] `<wbr>`
+- [✓] `<wbr>`
 
 ## References
 
