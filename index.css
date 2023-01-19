@@ -7,3 +7,8 @@ body {
 body > main {
   padding: 1em;
 }
+
+/* show the outline of the map area */
+#map {
+  outline: 1px solid #000;
+}

@@ -1,6 +1,8 @@
 # html-lab
 
-Here I will explore HTML-only concepts and functionality.  Off the top of my head I'm thinking embedded video, date pickers and accessibility, but I will explore tags I am not familiar with and tags that have contextual importance.
+I am interested in learning about accessibility in HTML.
+Here I will explore HTML-only concepts and functionality.
+See the [HTML Living Standard](https://html.spec.whatwg.org/multipage/) for full details.
 
 Please note that <a href="https://github.com/features/copilot">copilot<a> wrote most of the content for this entire html-lab.
 
@@ -91,18 +93,18 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 
 ### L
 
-- [ ] `<label>`
-- [ ] `<legend>`
-- [ ] `<li>`
-- [ ] `<link>`
+- [✓] `<label>`
+- [✓] `<legend>`
+- [✓] `<li>`
+- [✓] `<link>`
 
 ### M
 
 - [✓] `<main>`
-- [ ] `<map>`
-- [ ] `<mark>`
+- [✓] `<map>`
+- [✓] `<mark>`
 - [✓] `<meta>`
-- [ ] `<meter>`
+- [✓] `<meter>`
 
 ### N
 

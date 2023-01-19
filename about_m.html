@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./index.css" />
+    <title>Semantic HTML</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about_l.html">Previous Tags</a></li>
+          <li><a href="about_n.html">Next Tags</a></li>
+        </ul>
+      </nav>
+      <h1>Semantic HTML</h1>
+      <p>Below you will find examples for the "_" tags.</p>
+    </header>
+    <main>
+      <section id="map">
+        <h2>&lt;map&gt;</h2>
+        <p>
+          The <code>&lt;map&gt;</code> tag is used to create an image map. An
+          image map is an image with clickable areas. In this example, clicking
+          anywhere other than the border of this image will bring you back to
+          the main page.
+        </p>
+        <img
+          src="./assets/profile8x8.jpg"
+          usemap="#image-maps-profile8x8"
+          alt="Profile Picture of Corey Alix"
+        />
+        <map id="image-maps-profile8x8">
+          <area
+            alt="Glasses"
+            title="Glasses"
+            href="./index.html"
+            shape="poly"
+            coords="32,32,32,224,224,224,224,32"
+          />
+        </map>
+      </section>
+      <section>
+        <h2>Definitions</h2>
+        <dl>
+          <dt><dfn>&lt;map&gt;</dfn></dt>
+          <dd>
+            The <code>&lt;map&gt;</code> tag is used to create an image map. An
+            image map is an image with clickable areas.
+          </dd>
+          <dt><dfn>&lt;mark&gt;</dfn></dt>
+          <dd>
+            The <code>&lt;mark&gt;</code> tag is used to highlight text. As you
+            can see in <mark>this example</mark> here.
+          </dd>
+          <dt><dfn>&lt;meter&gt;</dfn></dt>
+          <dd>
+            The <code>&lt;meter&gt;</code> tag is used to represent a scalar
+            measurement within a known range, or a fractional value. The current
+            temperature is
+            <meter min="28" max="103" optimum="62" value="45">
+              Current Temperature
+            </meter>
+            45 degrees fahrenheit.
+          </dd>
+        </dl>
+      </section>
+    </main>
+    <footer></footer>
+  </body>
+</html>
