@@ -170,8 +170,8 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 
 ### U
 
-- [ ] `<u>`
-- [ ] `<ul>`
+- [✓] `<u>`
+- [✓] `<ul>`
 
 ### V
 
