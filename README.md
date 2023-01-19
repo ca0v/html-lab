@@ -155,18 +155,18 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 
 ### T
 
-- [ ] `<table>`
-- [ ] `<tbody>`
-- [ ] `<td>`
-- [ ] `<template>`
-- [ ] `<textarea>`
-- [ ] `<tfoot>`
-- [ ] `<th>`
-- [ ] `<thead>`
-- [ ] `<time>`
-- [ ] `<title>`
-- [ ] `<tr>`
-- [ ] `<track>`
+- [✓] `<table>`
+- [✓] `<tbody>`
+- [✓] `<td>`
+- [✓] `<template>`
+- [✓] `<textarea>`
+- [✓] `<tfoot>`
+- [✓] `<th>`
+- [✓] `<thead>`
+- [✓] `<time>`
+- [✓] `<title>`
+- [✓] `<tr>`
+- [✓] `<track>`
 
 ### U
 
