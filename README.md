@@ -181,3 +181,13 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 ### W
 
 - [ ] `<wbr>`
+
+## References
+
+- [HTML Living Standard](https://html.spec.whatwg.org/multipage/)
+- [HTML5 Doctor](http://html5doctor.com/)
+- [HTML5 Rocks](http://www.html5rocks.com/en/)
+- [HTML5 Test](http://html5test.com/)
+- [HTML5 Please](http://html5please.com/)
+- [HTML5 Accessibility](http://www.html5accessibility.com/)
+- [this page](https://ca0v.github.io/html-lab)
