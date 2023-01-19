@@ -113,19 +113,18 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 
 ### O
 
-- [ ] `<object>`
-- [ ] `<ol>`
-- [ ] `<optgroup>`
-- [ ] `<option>`
-- [ ] `<output>`
+- [✓] `<object>`
+- [✓] `<ol>`
+- [✓] `<optgroup>`
+- [✓] `<option>`
+- [✓] `<output>`
 
 ### P
 
 - [✓] `<p>`
-- [ ] `<param>`
-- [ ] `<picture>`
-- [ ] `<pre>`
-- [ ] `<progress>`
+- [✓] `<picture>`
+- [✓] `<pre>`
+- [✓] `<progress>`
 
 ### Q
 
