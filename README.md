@@ -132,9 +132,9 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 
 ### R
 
-- [ ] `<rp>`
-- [ ] `<rt>`
-- [ ] `<ruby>`
+- [✓] `<rp>`
+- [✓] `<rt>`
+- [✓] `<ruby>`
 
 ### S
 
