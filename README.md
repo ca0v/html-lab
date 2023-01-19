@@ -109,7 +109,7 @@ Here is an "exhaustive" list of all the HTML tags (surely I missed many):
 ### N
 
 - [✓] `<nav>`
-- [ ] `<noscript>`
+- [✓] `<noscript>`
 
 ### O
 
